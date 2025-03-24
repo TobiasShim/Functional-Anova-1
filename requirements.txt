@@ -1,3 +1,3 @@
 pandas
-scikit-fda
 matplotlib
+scikit-fda
